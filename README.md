@@ -111,6 +111,3 @@ For any questions or feedback, please reach out to me via [LinkedIn](https://www
 I’m constantly working on exciting projects in cybersecurity, web development, and ethical hacking. Check out my GitHub to see the latest tools and innovations I’m building, including this **Phishing URL Scanner** project. I’d love to hear your feedback and collaborate on future endeavors!
 
 [**Visit my GitHub profile here!**](https://github.com/MishraJi-Devloper)
-```
-
-.
