@@ -15,39 +15,6 @@ Welcome to the Phishing URL Scanner project! This tool is designed to analyze UR
 - **Nmap Integration**: Performs deep scanning of the server’s IP address to identify open ports, services, and potential vulnerabilities.
 - **Attack Detection**: Identifies possible web application attacks such as SQL Injection and Cross-Site Scripting (XSS).
 
-## Installation
-
-1. **Clone the Repository:**
-   - **HTTPS (if public):**
-     ```bash
-     git clone https://github.com/MishraJi-Devloper/phishing-url-scanner.git
-     cd phishing-url-scanner
-     ```
-
-   - **SSH:**
-     ```bash
-     git clone git@github.com:MishraJi-Devloper/phishing-url-scanner.git
-     cd phishing-url-scanner
-     ```
-
-2. **Install Dependencies:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-    Ensure you have **Nmap** installed on your system. On Kali Linux, you can install it with:
-    ```bash
-    sudo apt-get install nmap
-    ```
-
-3. **Run the Scanner:**
-    ```bash
-    python url_scanner.py
-    ```
-
-    Follow the prompts to enter the URL you want to scan.
-
-
 ## Usage
 
 Run the script to start scanning a URL:
