@@ -19,7 +19,7 @@ Welcome to the Phishing URL Scanner project! This tool is designed to analyze UR
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/phishing-url-scanner.git
+    git clone https://github.com/MishraJi-Devloper/phishing-url-scanner.git
     cd phishing-url-scanner
     ```
 
