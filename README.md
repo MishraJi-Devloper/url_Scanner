@@ -22,6 +22,10 @@ Run the script to start scanning a URL:
 ```bash
 python url_scanner.py
 ```
+OR
+```bash
+python3 url_scanner.py
+```
 
 **Enter the URL you want to scan** when prompted. The tool will:
 
