@@ -9,7 +9,7 @@ import socket
 # List of known phishing indicators
 suspicious_words = ['login', 'update', 'free', 'account', 'secure', 'bank', 'verify', 'signin']
 
-# Whitelist for trusted domains (e.g., your university domain)
+# Whitelist for trusted domains (You can change this list as your wish like example.com)
 trusted_domains = ['cuchd.in', 'google.com', 'github.com']
 
 # Extract features from a URL
